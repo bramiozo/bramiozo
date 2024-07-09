@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**bramiozo/bramiozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+INSERT IMAGE
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on too many things, from NLP tools and timeseries clustering to Irish text-to-speech models 
+- 🌱 I’m currently learning..
+- 👯 I’m looking to collaborate on PubScience/SCUCE (NER+L)
+- 🤔 I’m looking for help with understanding category theory, a monoiwhat?
+- 💬 Ask me about aerospace technology, machine learning, nuclear fusion, epistomology
+- 📫 How to reach me: I reach you.
+- 😄 Pronouns: Bram
+- ⚡ Fun fact: I like cookies
+
+
+
+
