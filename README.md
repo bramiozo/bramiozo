@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-INSERT IMAGE
+ <p align="center">
+<img src="https://github.com/bramiozo/bramiozo/blob/new_branch/logo.webp" alt="image" width="300" height="auto" >
+ </p>
 
 
 
